@@ -1,4 +1,7 @@
 RENCANA KONTEN AGUSTIAN
 
 JavaScript
+  * ES6
+  * Framework javascript
+
 Php FrameWork
