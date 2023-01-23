@@ -4,6 +4,7 @@ JavaScript
   * ES6
   * Framework javascript
   ^ Vue
+  ^ React
 
 Php FrameWork
 ^ Laravel
