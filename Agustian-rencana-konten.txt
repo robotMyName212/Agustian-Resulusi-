@@ -3,8 +3,10 @@ RENCANA KONTEN AGUSTIAN
 JavaScript
   * ES6
   * Framework javascript
-  ^ Angular
+  ^ Vue
   ^ React
-Php FrameWor
-^Laravel
 
+Php FrameWork
+^ Laravel
+Struktur data dasar
+python
