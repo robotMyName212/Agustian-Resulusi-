@@ -5,7 +5,7 @@ JavaScript
   * Framework javascript
   ^ Vue
   ^ React
-
+  ^ AngularS
 Php FrameWork
 ^ Laravel
 Struktur data dasar
